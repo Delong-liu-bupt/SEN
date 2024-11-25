@@ -7,7 +7,6 @@ python train.py \
 --need_MAE \
 --mlm_loss_weight 1.0 \
 --mae_loss_weight 10 \
---fuse_loss_weight 10 \
 --tri_loss_weight 10 \
 --mask_ratio 0.7 \
 --lr 1e-5 \
