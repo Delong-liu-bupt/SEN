@@ -5,15 +5,6 @@
 * [2023.08.01] Repo is created. Code will come soon.
 * [2024.11.25] Code is now available! 🎉
 
-
-```markdown
-# SEN
-> Text-guided Image Restoration and Semantic Enhancement for Text-to-Image Person Retrieval
-
-### News
-* [2023.08.01] Repo is created. Code will come soon.
-* [2024.11.25] Code is now available! 🎉
-
 ## Usage
 
 ### Requirements
@@ -29,7 +20,7 @@ nltk==3.8.1
 Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description), the ICFG-PEDES dataset from [here](https://github.com/zifyloo/SSAN), and the RSTPReid dataset from [here](https://github.com/NjtechCVLab/RSTPReid-Dataset). Extract the downloaded datasets into the dataset root directory. The folder structure should be organized as follows:
 
 ```
-|-- your data root dir/
+|-- your dataset root dir/
 |   |-- <CUHK-PEDES>/
 |       |-- imgs
 |            |-- cam_a
