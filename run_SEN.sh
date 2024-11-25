@@ -13,6 +13,6 @@ python train.py \
 --lr 1e-5 \
 --dataset_name $DATASET_NAME \
 --loss_names 'sdm+mae+id+tri' \
---root_dir '/data1/ldl/data/Person_img' \
+--root_dir 'your_data_path' \
 --num_epoch 60 \
 --lrscheduler 'cosine'
