@@ -102,7 +102,7 @@ def save_train_configs(path, args):
         os.makedirs(path)
     with open(f'{path}/configs.yaml', 'w') as f:
         yaml.dump(vars(args), f, default_flow_style=False)
-        backup_code(source_dir='../SEN_Reid',log_dir=path)
+        backup_code(source_dir='./',log_dir=path)
 
 def load_train_configs(path):
     with open(path, 'r') as f:
