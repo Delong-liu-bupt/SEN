@@ -142,5 +142,13 @@ Some components of this code implementation are adopted from [CLIP](https://gith
 If you find this code useful for your research, please cite our paper.
 
 ```tex
-TBD
+@misc{liu2024textguidedimagerestorationsemantic,
+      title={Text-guided Image Restoration and Semantic Enhancement for Text-to-Image Person Retrieval}, 
+      author={Delong Liu and Haiwen Li and Zhicheng Zhao and Yuan Dong and Nikolaos V. Boulgouris},
+      year={2024},
+      eprint={2307.09059},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2307.09059}, 
+}
 ```
