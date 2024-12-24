@@ -142,13 +142,15 @@ Some components of this code implementation are adopted from [CLIP](https://gith
 If you find this code useful for your research, please cite our paper.
 
 ```tex
-@misc{liu2024textguidedimagerestorationsemantic,
-      title={Text-guided Image Restoration and Semantic Enhancement for Text-to-Image Person Retrieval}, 
-      author={Delong Liu and Haiwen Li and Zhicheng Zhao and Yuan Dong and Nikolaos V. Boulgouris},
-      year={2024},
-      eprint={2307.09059},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2307.09059}, 
+@article{LIU2025107028,
+title = {Text-guided Image Restoration and Semantic Enhancement for Text-to-Image Person Retrieval},
+journal = {Neural Networks},
+volume = {184},
+pages = {107028},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2024.107028},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608024009572},
+author = {Delong Liu and Haiwen Li and Zhicheng Zhao and Yuan Dong}
 }
 ```
